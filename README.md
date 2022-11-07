@@ -1,8 +1,7 @@
-# AdventureWorks-PowerBI-Sales-Dashboard
-
 
 # AdventureWorks
-                      ![AdventureWorks_Logo](https://user-images.githubusercontent.com/114532273/200405381-fb5389e4-2077-4928-ac1c-02fd5cbe391d.png)
+
+![AdventureWorks_Logo](https://user-images.githubusercontent.com/114532273/200407297-abd7052f-fd09-406b-bdd0-19983c6f2764.png)
 
 
 # Project Summary
